@@ -1,6 +1,5 @@
-#Getting access to the twitter API:
 
-Getting access to the Twitter API is simple:
+# Getting access to the Twitter API :
 
 * Create account on [Twitter](https://twitter.com/)
 * Go to [Twitter Developer app](http://apps.twitter.com)
