@@ -18,3 +18,4 @@
 6. The installer finishes and displays “Thank you for installing Anaconda 2 or 3 !”
 7. Close and open your terminal window for the installation to take effect, or you can enter the command source ```~/.bashrc.```
 8. After your install is complete, verify it by opening Anaconda Navigator, a program that is included with Anaconda: Open a Terminal window and type ```anaconda-navigator```. If Navigator opens, you have successfully installed Anaconda
+9. For more details refer this [link](https://docs.anaconda.com/anaconda/install/linux)
